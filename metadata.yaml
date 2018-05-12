@@ -1,5 +1,5 @@
 _repo: Dragon-s-blood_10321
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Brett, Harold
@@ -9,6 +9,9 @@ contributor:
     birthdate: 1880
     gutenberg_agent_id: '7458'
     url: http://www.gutenberg.org/2009/agents/7458
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rideout, Henry Milner
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '3466'
     url: http://www.gutenberg.org/2009/agents/3466
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10321#Dragon-s-blood
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
